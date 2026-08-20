@@ -1,0 +1,36 @@
+title>Sobre Mim</title>
+</head>
+
+<body>
+
+    <h1>Sobre Mim</h1>
+
+    <hr>
+
+    <h2>Oii Eu sou a Lara.</h2>
+
+    <p>
+        Estou aprendendo desenvolvimento Web.
+    </p>
+
+    <p>
+        Gosto de tecnologia e programação.
+    </p>
+
+    <p>
+        Estou desenvolvendo meus conhecimentos em HTML.
+    </p>
+
+    <h2>Meus interesses</h2>
+
+    <ul>
+        <li>Programação</li>
+        <li>Tecnologia</li>
+        <li>Desenvolvimento Web</li>
+        <li>Filmes</li>
+       
+    </ul>
+
+    <br>
+
+    <a href="index.html">Voltar para o Portfólio</a>
