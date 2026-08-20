@@ -1,0 +1,55 @@
+<title>Portfólio da Lara</title>
+</head>
+
+<body>
+
+    <h1>Portfólio da Lara</h1>
+
+    <h2>Sou Desenvolvedora Web</h2>
+
+    <hr>
+
+    <h2>
+        <a href="movie-ranking.html">
+            Projeto de Classificação de Filmes
+        </a>
+    </h2>
+
+    <h3>Os Melhores Filmes Segundo a Lara</h3>
+
+    <h4>Meus 3 filmes favoritos.</h4>
+
+    <hr>
+
+    <h4>Captain América:Civil war</h4>
+    <p>meu filme de ação favorito.</p>
+
+    <h4>Doutor Estranho</h4>
+    <p>Melhor filme de mágia.</p>
+
+    <h4>Avengers:Infinity War</h4>
+    <p>Meu filme de super-herói favorito.</p>
+
+    <br>
+
+    <h2>
+        <a href="birthday-invite.html">
+            Projeto de Convite de Aniversário
+        </a>
+    </h2>
+
+  
+
+    <img src="../images/birthday-invite.png" width="250">
+   
+
+    <a href="about.html">Sobre</a>
+    <br>
+    <a href="about.html">Contato</a>
+filme ranking:
+
+ 
+  
+    <br>
+
+    <a href="index.html">Voltar para o Portfólio</a>
